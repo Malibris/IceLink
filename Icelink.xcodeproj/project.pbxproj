@@ -21,29 +21,29 @@
 		02CF28531ED767B500BB1729 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28521ED767B500BB1729 /* UIKit.framework */; };
 		02CF28551ED767BC00BB1729 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28541ED767BC00BB1729 /* Foundation.framework */; };
 		02CF28571ED767D200BB1729 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28561ED767D200BB1729 /* libz.tbd */; };
-		EA2B68072036F13E009B2D00 /* FMWebSyncSubscribers-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67EF2036F13C009B2D00 /* FMWebSyncSubscribers-Swift3.h */; };
+		EA2B68072036F13E009B2D00 /* FMWebSyncSubscribers-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67EF2036F13C009B2D00 /* FMWebSyncSubscribers-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68082036F13E009B2D00 /* libFMIceLinkSimple.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F02036F13C009B2D00 /* libFMIceLinkSimple.a */; };
 		EA2B68092036F13E009B2D00 /* libFMIceLinkWebSync.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F12036F13C009B2D00 /* libFMIceLinkWebSync.a */; };
-		EA2B680A2036F13E009B2D00 /* FMIceLink-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F22036F13C009B2D00 /* FMIceLink-Swift3.h */; };
+		EA2B680A2036F13E009B2D00 /* FMIceLink-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F22036F13C009B2D00 /* FMIceLink-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B680B2036F13E009B2D00 /* libFM.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F32036F13D009B2D00 /* libFM.a */; };
-		EA2B680C2036F13E009B2D00 /* FMIceLinkWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F42036F13D009B2D00 /* FMIceLinkWebSync-Swift3.h */; };
-		EA2B680D2036F13E009B2D00 /* FMWebSyncChat-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F52036F13D009B2D00 /* FMWebSyncChat-Swift3.h */; };
+		EA2B680C2036F13E009B2D00 /* FMIceLinkWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F42036F13D009B2D00 /* FMIceLinkWebSync-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B680D2036F13E009B2D00 /* FMWebSyncChat-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F52036F13D009B2D00 /* FMWebSyncChat-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B680E2036F13E009B2D00 /* libFMWebSyncChat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F62036F13D009B2D00 /* libFMWebSyncChat.a */; };
-		EA2B680F2036F13E009B2D00 /* FMWebSyncChat.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F72036F13D009B2D00 /* FMWebSyncChat.h */; };
+		EA2B680F2036F13E009B2D00 /* FMWebSyncChat.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F72036F13D009B2D00 /* FMWebSyncChat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68102036F13E009B2D00 /* libFMIceLinkWebRTC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F82036F13D009B2D00 /* libFMIceLinkWebRTC.a */; };
 		EA2B68112036F13E009B2D00 /* libFMWebSyncSubscribers.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F92036F13D009B2D00 /* libFMWebSyncSubscribers.a */; };
-		EA2B68122036F13E009B2D00 /* FMWebSyncSubscribers.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FA2036F13D009B2D00 /* FMWebSyncSubscribers.h */; };
-		EA2B68132036F13E009B2D00 /* FMIceLinkWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FB2036F13D009B2D00 /* FMIceLinkWebSync.h */; };
+		EA2B68122036F13E009B2D00 /* FMWebSyncSubscribers.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FA2036F13D009B2D00 /* FMWebSyncSubscribers.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B68132036F13E009B2D00 /* FMIceLinkWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FB2036F13D009B2D00 /* FMIceLinkWebSync.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68142036F13E009B2D00 /* libFMWebSync.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67FC2036F13D009B2D00 /* libFMWebSync.a */; };
-		EA2B68152036F13E009B2D00 /* FM-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FD2036F13D009B2D00 /* FM-Swift3.h */; };
-		EA2B68162036F13E009B2D00 /* FMWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FE2036F13D009B2D00 /* FMWebSync-Swift3.h */; };
-		EA2B68172036F13E009B2D00 /* FMIceLinkWebRTC-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FF2036F13D009B2D00 /* FMIceLinkWebRTC-Swift3.h */; };
-		EA2B68182036F13E009B2D00 /* FMWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68002036F13E009B2D00 /* FMWebSync.h */; };
-		EA2B68192036F13E009B2D00 /* FMIceLinkSimple.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68012036F13E009B2D00 /* FMIceLinkSimple.h */; };
-		EA2B681A2036F13E009B2D00 /* FMIceLinkSimple-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68022036F13E009B2D00 /* FMIceLinkSimple-Swift3.h */; };
-		EA2B681B2036F13E009B2D00 /* FM.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68032036F13E009B2D00 /* FM.h */; };
-		EA2B681C2036F13E009B2D00 /* FMIceLinkWebRTC.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68042036F13E009B2D00 /* FMIceLinkWebRTC.h */; };
-		EA2B681D2036F13E009B2D00 /* FMIceLink.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68052036F13E009B2D00 /* FMIceLink.h */; };
+		EA2B68152036F13E009B2D00 /* FM-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FD2036F13D009B2D00 /* FM-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B68162036F13E009B2D00 /* FMWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FE2036F13D009B2D00 /* FMWebSync-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B68172036F13E009B2D00 /* FMIceLinkWebRTC-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FF2036F13D009B2D00 /* FMIceLinkWebRTC-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B68182036F13E009B2D00 /* FMWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68002036F13E009B2D00 /* FMWebSync.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B68192036F13E009B2D00 /* FMIceLinkSimple.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68012036F13E009B2D00 /* FMIceLinkSimple.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B681A2036F13E009B2D00 /* FMIceLinkSimple-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68022036F13E009B2D00 /* FMIceLinkSimple-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B681B2036F13E009B2D00 /* FM.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68032036F13E009B2D00 /* FM.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B681C2036F13E009B2D00 /* FMIceLinkWebRTC.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68042036F13E009B2D00 /* FMIceLinkWebRTC.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA2B681D2036F13E009B2D00 /* FMIceLink.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68052036F13E009B2D00 /* FMIceLink.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA354D9F2036FA720083837F /* libFMIceLink_armv7.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA354D9A2036FA720083837F /* libFMIceLink_armv7.a */; };
 		EA354DA02036FA720083837F /* libFMIceLink_i386.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA354D9B2036FA720083837F /* libFMIceLink_i386.a */; };
 		EA354DA12036FA730083837F /* libFMIceLink_x86_64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA354D9C2036FA720083837F /* libFMIceLink_x86_64.a */; };
@@ -221,7 +221,6 @@
 				EA2B681D2036F13E009B2D00 /* FMIceLink.h in Headers */,
 				EA2B68122036F13E009B2D00 /* FMWebSyncSubscribers.h in Headers */,
 				EA2B68152036F13E009B2D00 /* FM-Swift3.h in Headers */,
-				0243DAE91ED75EF000CEE189 /* Icelink.h in Headers */,
 				EA2B68162036F13E009B2D00 /* FMWebSync-Swift3.h in Headers */,
 				EA2B680F2036F13E009B2D00 /* FMWebSyncChat.h in Headers */,
 				EA2B680C2036F13E009B2D00 /* FMIceLinkWebSync-Swift3.h in Headers */,
@@ -234,6 +233,7 @@
 				EA2B68182036F13E009B2D00 /* FMWebSync.h in Headers */,
 				EA2B681B2036F13E009B2D00 /* FM.h in Headers */,
 				EA2B681A2036F13E009B2D00 /* FMIceLinkSimple-Swift3.h in Headers */,
+				0243DAE91ED75EF000CEE189 /* Icelink.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
