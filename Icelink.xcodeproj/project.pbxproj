@@ -21,13 +21,9 @@
 		02CF28531ED767B500BB1729 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28521ED767B500BB1729 /* UIKit.framework */; };
 		02CF28551ED767BC00BB1729 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28541ED767BC00BB1729 /* Foundation.framework */; };
 		02CF28571ED767D200BB1729 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 02CF28561ED767D200BB1729 /* libz.tbd */; };
-		EA2B68072036F13E009B2D00 /* FMWebSyncSubscribers-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67EF2036F13C009B2D00 /* FMWebSyncSubscribers-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68082036F13E009B2D00 /* libFMIceLinkSimple.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F02036F13C009B2D00 /* libFMIceLinkSimple.a */; };
 		EA2B68092036F13E009B2D00 /* libFMIceLinkWebSync.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F12036F13C009B2D00 /* libFMIceLinkWebSync.a */; };
-		EA2B680A2036F13E009B2D00 /* FMIceLink-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F22036F13C009B2D00 /* FMIceLink-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B680B2036F13E009B2D00 /* libFM.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F32036F13D009B2D00 /* libFM.a */; };
-		EA2B680C2036F13E009B2D00 /* FMIceLinkWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F42036F13D009B2D00 /* FMIceLinkWebSync-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA2B680D2036F13E009B2D00 /* FMWebSyncChat-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F52036F13D009B2D00 /* FMWebSyncChat-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B680E2036F13E009B2D00 /* libFMWebSyncChat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F62036F13D009B2D00 /* libFMWebSyncChat.a */; };
 		EA2B680F2036F13E009B2D00 /* FMWebSyncChat.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67F72036F13D009B2D00 /* FMWebSyncChat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68102036F13E009B2D00 /* libFMIceLinkWebRTC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67F82036F13D009B2D00 /* libFMIceLinkWebRTC.a */; };
@@ -35,12 +31,8 @@
 		EA2B68122036F13E009B2D00 /* FMWebSyncSubscribers.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FA2036F13D009B2D00 /* FMWebSyncSubscribers.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68132036F13E009B2D00 /* FMIceLinkWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FB2036F13D009B2D00 /* FMIceLinkWebSync.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68142036F13E009B2D00 /* libFMWebSync.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA2B67FC2036F13D009B2D00 /* libFMWebSync.a */; };
-		EA2B68152036F13E009B2D00 /* FM-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FD2036F13D009B2D00 /* FM-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA2B68162036F13E009B2D00 /* FMWebSync-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FE2036F13D009B2D00 /* FMWebSync-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA2B68172036F13E009B2D00 /* FMIceLinkWebRTC-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B67FF2036F13D009B2D00 /* FMIceLinkWebRTC-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68182036F13E009B2D00 /* FMWebSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68002036F13E009B2D00 /* FMWebSync.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B68192036F13E009B2D00 /* FMIceLinkSimple.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68012036F13E009B2D00 /* FMIceLinkSimple.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA2B681A2036F13E009B2D00 /* FMIceLinkSimple-Swift3.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68022036F13E009B2D00 /* FMIceLinkSimple-Swift3.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B681B2036F13E009B2D00 /* FM.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68032036F13E009B2D00 /* FM.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B681C2036F13E009B2D00 /* FMIceLinkWebRTC.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68042036F13E009B2D00 /* FMIceLinkWebRTC.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA2B681D2036F13E009B2D00 /* FMIceLink.h in Headers */ = {isa = PBXBuildFile; fileRef = EA2B68052036F13E009B2D00 /* FMIceLink.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -68,14 +60,9 @@
 		02CF28521ED767B500BB1729 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		02CF28541ED767BC00BB1729 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		02CF28561ED767D200BB1729 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
-		02CF28651ED7812000BB1729 /* libFMIceLink.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMIceLink.a; path = Icelink/lib/libFMIceLink.a; sourceTree = "<group>"; };
-		EA2B67EF2036F13C009B2D00 /* FMWebSyncSubscribers-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMWebSyncSubscribers-Swift3.h"; path = "lib/FMWebSyncSubscribers-Swift3.h"; sourceTree = "<group>"; };
 		EA2B67F02036F13C009B2D00 /* libFMIceLinkSimple.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMIceLinkSimple.a; path = lib/libFMIceLinkSimple.a; sourceTree = "<group>"; };
 		EA2B67F12036F13C009B2D00 /* libFMIceLinkWebSync.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMIceLinkWebSync.a; path = lib/libFMIceLinkWebSync.a; sourceTree = "<group>"; };
-		EA2B67F22036F13C009B2D00 /* FMIceLink-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMIceLink-Swift3.h"; path = "lib/FMIceLink-Swift3.h"; sourceTree = "<group>"; };
 		EA2B67F32036F13D009B2D00 /* libFM.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFM.a; path = lib/libFM.a; sourceTree = "<group>"; };
-		EA2B67F42036F13D009B2D00 /* FMIceLinkWebSync-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMIceLinkWebSync-Swift3.h"; path = "lib/FMIceLinkWebSync-Swift3.h"; sourceTree = "<group>"; };
-		EA2B67F52036F13D009B2D00 /* FMWebSyncChat-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMWebSyncChat-Swift3.h"; path = "lib/FMWebSyncChat-Swift3.h"; sourceTree = "<group>"; };
 		EA2B67F62036F13D009B2D00 /* libFMWebSyncChat.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMWebSyncChat.a; path = lib/libFMWebSyncChat.a; sourceTree = "<group>"; };
 		EA2B67F72036F13D009B2D00 /* FMWebSyncChat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMWebSyncChat.h; path = lib/FMWebSyncChat.h; sourceTree = "<group>"; };
 		EA2B67F82036F13D009B2D00 /* libFMIceLinkWebRTC.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMIceLinkWebRTC.a; path = lib/libFMIceLinkWebRTC.a; sourceTree = "<group>"; };
@@ -83,12 +70,8 @@
 		EA2B67FA2036F13D009B2D00 /* FMWebSyncSubscribers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMWebSyncSubscribers.h; path = lib/FMWebSyncSubscribers.h; sourceTree = "<group>"; };
 		EA2B67FB2036F13D009B2D00 /* FMIceLinkWebSync.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMIceLinkWebSync.h; path = lib/FMIceLinkWebSync.h; sourceTree = "<group>"; };
 		EA2B67FC2036F13D009B2D00 /* libFMWebSync.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libFMWebSync.a; path = lib/libFMWebSync.a; sourceTree = "<group>"; };
-		EA2B67FD2036F13D009B2D00 /* FM-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FM-Swift3.h"; path = "lib/FM-Swift3.h"; sourceTree = "<group>"; };
-		EA2B67FE2036F13D009B2D00 /* FMWebSync-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMWebSync-Swift3.h"; path = "lib/FMWebSync-Swift3.h"; sourceTree = "<group>"; };
-		EA2B67FF2036F13D009B2D00 /* FMIceLinkWebRTC-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMIceLinkWebRTC-Swift3.h"; path = "lib/FMIceLinkWebRTC-Swift3.h"; sourceTree = "<group>"; };
 		EA2B68002036F13E009B2D00 /* FMWebSync.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMWebSync.h; path = lib/FMWebSync.h; sourceTree = "<group>"; };
 		EA2B68012036F13E009B2D00 /* FMIceLinkSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMIceLinkSimple.h; path = lib/FMIceLinkSimple.h; sourceTree = "<group>"; };
-		EA2B68022036F13E009B2D00 /* FMIceLinkSimple-Swift3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FMIceLinkSimple-Swift3.h"; path = "lib/FMIceLinkSimple-Swift3.h"; sourceTree = "<group>"; };
 		EA2B68032036F13E009B2D00 /* FM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FM.h; path = lib/FM.h; sourceTree = "<group>"; };
 		EA2B68042036F13E009B2D00 /* FMIceLinkWebRTC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMIceLinkWebRTC.h; path = lib/FMIceLinkWebRTC.h; sourceTree = "<group>"; };
 		EA2B68052036F13E009B2D00 /* FMIceLink.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMIceLink.h; path = lib/FMIceLink.h; sourceTree = "<group>"; };
@@ -160,21 +143,13 @@
 				EA354D9D2036FA720083837F /* libFMIceLink_armv7s.a */,
 				EA354D9B2036FA720083837F /* libFMIceLink_i386.a */,
 				EA354D9C2036FA720083837F /* libFMIceLink_x86_64.a */,
-				EA2B67FD2036F13D009B2D00 /* FM-Swift3.h */,
 				EA2B68032036F13E009B2D00 /* FM.h */,
-				EA2B67F22036F13C009B2D00 /* FMIceLink-Swift3.h */,
 				EA2B68052036F13E009B2D00 /* FMIceLink.h */,
-				EA2B68022036F13E009B2D00 /* FMIceLinkSimple-Swift3.h */,
 				EA2B68012036F13E009B2D00 /* FMIceLinkSimple.h */,
-				EA2B67FF2036F13D009B2D00 /* FMIceLinkWebRTC-Swift3.h */,
 				EA2B68042036F13E009B2D00 /* FMIceLinkWebRTC.h */,
-				EA2B67F42036F13D009B2D00 /* FMIceLinkWebSync-Swift3.h */,
 				EA2B67FB2036F13D009B2D00 /* FMIceLinkWebSync.h */,
-				EA2B67FE2036F13D009B2D00 /* FMWebSync-Swift3.h */,
 				EA2B68002036F13E009B2D00 /* FMWebSync.h */,
-				EA2B67F52036F13D009B2D00 /* FMWebSyncChat-Swift3.h */,
 				EA2B67F72036F13D009B2D00 /* FMWebSyncChat.h */,
-				EA2B67EF2036F13C009B2D00 /* FMWebSyncSubscribers-Swift3.h */,
 				EA2B67FA2036F13D009B2D00 /* FMWebSyncSubscribers.h */,
 				EA2B67F32036F13D009B2D00 /* libFM.a */,
 				EA2B67F02036F13C009B2D00 /* libFMIceLinkSimple.a */,
@@ -192,7 +167,6 @@
 		02CF283D1ED7672A00BB1729 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				02CF28651ED7812000BB1729 /* libFMIceLink.a */,
 				02CF28561ED767D200BB1729 /* libz.tbd */,
 				02CF28541ED767BC00BB1729 /* Foundation.framework */,
 				02CF28521ED767B500BB1729 /* UIKit.framework */,
@@ -220,19 +194,11 @@
 				EA2B681C2036F13E009B2D00 /* FMIceLinkWebRTC.h in Headers */,
 				EA2B681D2036F13E009B2D00 /* FMIceLink.h in Headers */,
 				EA2B68122036F13E009B2D00 /* FMWebSyncSubscribers.h in Headers */,
-				EA2B68152036F13E009B2D00 /* FM-Swift3.h in Headers */,
-				EA2B68162036F13E009B2D00 /* FMWebSync-Swift3.h in Headers */,
 				EA2B680F2036F13E009B2D00 /* FMWebSyncChat.h in Headers */,
-				EA2B680C2036F13E009B2D00 /* FMIceLinkWebSync-Swift3.h in Headers */,
-				EA2B68072036F13E009B2D00 /* FMWebSyncSubscribers-Swift3.h in Headers */,
 				EA2B68132036F13E009B2D00 /* FMIceLinkWebSync.h in Headers */,
-				EA2B680A2036F13E009B2D00 /* FMIceLink-Swift3.h in Headers */,
-				EA2B68172036F13E009B2D00 /* FMIceLinkWebRTC-Swift3.h in Headers */,
 				EA2B68192036F13E009B2D00 /* FMIceLinkSimple.h in Headers */,
-				EA2B680D2036F13E009B2D00 /* FMWebSyncChat-Swift3.h in Headers */,
 				EA2B68182036F13E009B2D00 /* FMWebSync.h in Headers */,
 				EA2B681B2036F13E009B2D00 /* FM.h in Headers */,
-				EA2B681A2036F13E009B2D00 /* FMIceLinkSimple-Swift3.h in Headers */,
 				0243DAE91ED75EF000CEE189 /* Icelink.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
