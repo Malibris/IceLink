@@ -20,5 +20,6 @@ FOUNDATION_EXPORT const unsigned char IcelinkVersionString[];
 #import <Icelink/FMWebSyncSubscribers.h>
 #import <Icelink/FMWebSyncChat.h>
 #import <Icelink/FMIceLink.h>
+#import <Icelink/FMIceLinkSimple.h>
 #import <Icelink/FMIceLinkWebRTC.h>
 #import <Icelink/FMIceLinkWebSync.h>
